@@ -1,0 +1,7 @@
+﻿  Khantov_Leonid_221-351_lab41.cpp
+C:\Users\leoni\source\repos\Project1\laboratory4\Khantov_Leonid_221-351_lab41.cpp(4,38): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\leoni\source\repos\Project1\laboratory4\Khantov_Leonid_221-351_lab41.cpp(4,73): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\leoni\source\repos\Project1\laboratory4\Khantov_Leonid_221-351_lab41.cpp(37,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Khantov_Leonid_221_351_lab42_.cpp
+  Создание кода...
+  laboratory4.vcxproj -> C:\Users\leoni\source\repos\Project1\x64\Debug\laboratory4.exe
