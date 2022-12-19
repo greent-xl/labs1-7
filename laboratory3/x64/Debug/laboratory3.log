@@ -1,0 +1,7 @@
+﻿  Khantov_Leonid_221_351_lab31.cpp
+C:\Users\leoni\source\repos\Project1\laboratory3\Khantov_Leonid_221_351_lab31.cpp(6,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\leoni\source\repos\Project1\laboratory3\Khantov_Leonid_221_351_lab31.cpp(13,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Khantov_Leonid_221_351_lab32.cpp
+  test.cpp
+  Создание кода...
+  laboratory3.vcxproj -> C:\Users\leoni\source\repos\Project1\x64\Debug\laboratory3.exe
