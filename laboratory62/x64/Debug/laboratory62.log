@@ -1,0 +1,3 @@
+﻿  Khantov_Leonid_221_351_lab62.cpp
+C:\Users\leoni\source\repos\Project1\laboratory62\Khantov_Leonid_221_351_lab62.cpp(13,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  laboratory62.vcxproj -> C:\Users\leoni\source\repos\Project1\x64\Debug\laboratory62.exe
